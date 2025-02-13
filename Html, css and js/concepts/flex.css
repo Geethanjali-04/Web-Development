@@ -1,0 +1,22 @@
+.box-container{
+    display: flex;
+    height: 100vh;
+    margin: 10px;
+    border: 2px solid black;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    align-content: center;
+    flex-shrink: 0;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    color: rgb(4, 8, 8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(218, 221, 30);
+}
