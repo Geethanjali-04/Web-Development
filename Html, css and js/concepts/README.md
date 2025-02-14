@@ -32,28 +32,3 @@ animation: -identidier -duration -animation-timing-function(Controls the speed c
 .box {
   animation: slide 2s linear 0s infinite alternate;
 }
-
-## what all we animate
-## Transformations:
-transform – Move, rotate, scale, or skew an element.
-Example: translate, rotate, scale, skew
-## Opacity and Visibility:
-opacity – Fade in or out.
-visibility – Show or hide elements (with some limitations).
-## Positioning:
-top, right, bottom, left – Move elements when positioned relatively, absolutely, or fixed.
-## Dimensions:
-width, height – Grow or shrink elements.
-max-width, max-height, min-width, min-height
-## Spacing:
-margin, padding – Animate spacing around and inside elements.
-## Colors:
-background-color – Change background colors.
-color – Animate text color.
-border-color – Animate border colors.
-## Borders and Outlines:
-border-width, border-radius – Animate the thickness or roundness of borders.
-outline, box-shadow
-## Background:
-background-position – Animate background images.
-background-size – Animate the size of background images.
